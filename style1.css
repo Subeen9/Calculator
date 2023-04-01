@@ -1,0 +1,52 @@
+*body{
+    background-color: #6A67CE;
+    margin:0
+}
+.hio{
+   margin-left: auto;
+   margin-right: auto;
+}
+.fixed{
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 900;
+    width: 100px;
+    height: auto;
+}
+.fixeds{
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 999;
+    color: aqua;
+}
+.midway{
+    background-color: #F6F1E9;
+}
+.head{
+    background-color:#F5B553;
+}
+.ends{
+    background-color: #F5B553;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0;
+}
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 0px auto 0px auto;
+    color: #000000;
+    text-align: center;
+}
+.move{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    
+}
